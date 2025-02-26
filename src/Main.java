@@ -1,7 +1,7 @@
 public class Main {
     public static void main(String[] args) {
         int initialBalance = 100;
-        int replenishmentOne  = 300;
+        int replenishmentOne = 300;
         int replenishmentTwo = 1100;
 
         int bonus = 0;
